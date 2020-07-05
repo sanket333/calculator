@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align:center;
+}
+.calculator{
+    width: 195px;
+    height: 273px;
+    border:2px solid;
+    margin:10px auto;
+}
+#screen{
+    width:191px;
+    height: 50px;
+}
+.operator{
+    width:39px;
+    height:30px;
+}
+.operator-group{
+    display:flex;
+}
+.clear{
+    display:flex;
+}
+.screen{
+    width:98px;
+    height:30px;
+}
+.number{
+    width: 65px;
+    float:left;
+    height:40px;
+    border:2px solid;
+    padding:4px;
+}
+.full{
+    width:195px;
+}
